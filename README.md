@@ -1,0 +1,2 @@
+# EjemploGrup
+Uso grupal
